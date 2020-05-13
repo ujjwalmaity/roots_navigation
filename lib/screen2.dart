@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class Screen2 extends StatefulWidget {
+  static const String id = 'screen_2';
+
   @override
   _Screen2State createState() => _Screen2State();
 }
